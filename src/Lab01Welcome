@@ -1,0 +1,38 @@
+/*
+ * COSC 1173 Programming Lab - Lab 01: Welcome Banner
+ * Textbook reference: Liang, Chapter 1
+ *
+ * Student name: [TYPE YOUR NAME HERE]
+ * Date:         [TYPE TODAY'S DATE HERE]
+ *
+ * REQUIREMENT: Every executable statement you write must carry a line comment
+ * that explains what that statement accomplishes. See the README for examples.
+ */
+public class Lab01Welcome {
+
+    public static void main(String[] args) {
+
+        // STEP 1 (DONE FOR YOU) - print a banner of exactly 40 asterisk characters.
+        System.out.println("****************************************");
+
+        // STEP 2 - TODO: print the course line exactly:  COSC 1173 Programming Lab
+        System.out.println("REPLACE ME");
+
+        // STEP 3 - TODO: print your own name in the form:  Student: Jane Doe
+        System.out.println("REPLACE ME");
+
+        // STEP 4 - TODO: print the following line, including the double quotation marks.
+        //          Welcome to "Introduction to Java Programming"
+        //          Hint: a double quote inside a string literal is written as \"
+        System.out.println("REPLACE ME");
+
+        // STEP 5 - TODO: print the average of the three exam scores 88, 92, and 79.
+        //          Compute the average inside the println using an arithmetic expression;
+        //          do NOT type the answer as a literal. Divide by 3.0, not by 3.
+        //          Required form:  Average score: <value>
+        System.out.println("REPLACE ME");
+
+        // STEP 6 - TODO: print the same 40-asterisk banner used in Step 1.
+        System.out.println("REPLACE ME");
+    }
+}
