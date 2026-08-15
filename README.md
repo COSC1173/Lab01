@@ -148,7 +148,7 @@ System.out.println("Average score: " + (88 + 92 + 79) / 3.0);
 Check your own coverage at any time:
 
 ```bash
-python3 tools/comment_check.py labs/lab01
+
 ```
 
 ---
@@ -158,14 +158,15 @@ python3 tools/comment_check.py labs/lab01
 Run the official test driver (this compiles everything for you):
 
 ```bash
-bash tools/run_lab.sh lab01
+
 ```
 
 To run your program by itself and see its output:
+from Eclipse or any IDE
 
 ```bash
-javac -d .build/manual labs/lab01/src/Lab01Welcome.java
-java -cp .build/manual Lab01Welcome
+javac Lab01Welcome.java
+java  Lab01Welcome
 ```
 
 ---
