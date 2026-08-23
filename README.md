@@ -63,11 +63,9 @@ System.out.println((88 + 92 + 79) / 3.0);   // prints 86.33333333333333 — 3.0 
 
 ### Step 0 — Set up (5 minutes)
 
-Create a new Project in Eclipse
+Create a new Project in Eclipse, name as Lab01Welcome
+Import the downloaded source into the project
 
-```bash
-
-```
 
 Open the folder in Eclipse, then open `labs/lab01/src/Lab01Welcome.java`.
 
@@ -141,21 +139,10 @@ System.out.println("Average score: " + (88 + 92 + 79) / 3.0); // prints a line
 System.out.println("Average score: " + (88 + 92 + 79) / 3.0);
 ```
 
-Check your own coverage at any time:
-
-```bash
-
-```
 
 ---
 
 ## Compile, Run, and Test
-
-Run the official test driver (this compiles everything for you):
-
-```bash
-
-```
 
 To run your program by itself and see its output:
 from Eclipse or any IDE
@@ -178,13 +165,6 @@ Average score: 86.33333333333333
 ****************************************
 ```
 
-A passing test run ends with:
-
-```
-RESULT: 10 of 10 checks passed.
-All checks passed. You may commit and push.
-```
-
 ---
 
 ## Grading Rubric
@@ -200,18 +180,10 @@ All checks passed. You may commit and push.
 
 ## Submission Checklist
 
-- [ ] `bash tools/run_lab.sh lab01` reports 10 of 10.
-- [ ] `python3 tools/comment_check.py labs/lab01` reports at least 70 percent.
+- [ ] Your source code, the .java file
+- [ ] The screenshoot of your output after program run correctly
 - [ ] Your name and date appear at the top of the file.
 - [ ] No `REPLACE ME` text remains.
-
-```bash
-git add .
-git commit -m "Lab 01 complete - all 10 checks passing"
-git push
-```
-
-Open the **Actions** tab on GitHub and confirm the green check mark.
 
 ---
 
