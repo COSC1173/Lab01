@@ -23,10 +23,11 @@ By the end of this session you will be able to:
 ---
 
 ## Files
+Download the source code from Blackboard
 
 | Path | Who edits it | Purpose |
 |---|---|---|
-| `lab01/src/Lab01Welcome.java` | **You** | The program you complete |
+| `./src/Lab01Welcome.java` | **You** | The program you complete |
 
 ---
 
