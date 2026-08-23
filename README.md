@@ -19,7 +19,6 @@ By the end of this session you will be able to:
 3. Print text with `System.out.println`.
 4. Use the escape sequence `\"` to place a double quotation mark inside a string literal.
 5. Explain why `259 / 3` and `259 / 3.0` produce different answers.
-6. Push work to GitHub and read the automated grade report.
 
 ---
 
@@ -27,11 +26,7 @@ By the end of this session you will be able to:
 
 | Path | Who edits it | Purpose |
 |---|---|---|
-| `labs/lab01/src/Lab01Welcome.java` | **You** | The program you complete |
-| `labs/lab01/test/Lab01WelcomeTest.java` | Nobody | The official test driver |
-| `common/TestRunner.java` | Nobody | Shared test harness |
-
-> Editing anything in `test/` or `common/` is an academic integrity violation. The grading server uses its own untouched copy, so local edits would not help you in any case.
+| `lab01/src/Lab01Welcome.java` | **You** | The program you complete |
 
 ---
 
@@ -68,12 +63,13 @@ System.out.println((88 + 92 + 79) / 3.0);   // prints 86.33333333333333 — 3.0 
 
 ### Step 0 — Set up (5 minutes)
 
+Create a new Project in Eclipse
+
 ```bash
-git clone https://github.com/[org]/lab01-[your-username].git
-cd lab01-[your-username]
+
 ```
 
-Open the folder in VS Code, then open `labs/lab01/src/Lab01Welcome.java`.
+Open the folder in Eclipse, then open `labs/lab01/src/Lab01Welcome.java`.
 
 ### Step 1 — Fill in your identity block
 
