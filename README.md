@@ -68,7 +68,7 @@ Create a new Project in Eclipse, name as Lab01Welcome
 Import the downloaded source into the project
 
 
-Open the folder in Eclipse, then open `labs/lab01/src/Lab01Welcome.java`.
+Open the folder in Eclipse, then open `lab01Welcome/src/Lab01Welcome.java`.
 
 ### Step 1 — Fill in your identity block
 
