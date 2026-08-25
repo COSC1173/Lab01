@@ -96,6 +96,9 @@ Open the folder in Eclipse, then open `lab01Welcome/src/Lab01Welcome.java`.
 
 Type in the downloaded source into the class
 
+<img width="1252" height="707" alt="image" src="https://github.com/user-attachments/assets/4e483beb-c98b-4517-9b30-f755efc164bf" />
+
+
 ### Step 1 — Fill in your identity block
 
 Replace the two placeholders at the top of the file with your name and today's date.
