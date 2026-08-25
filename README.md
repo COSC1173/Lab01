@@ -92,10 +92,9 @@ Complete the New Java Class dialog:
 
 Select **Finish**.
 
-Type in the downloaded source into the class
-
-
 Open the folder in Eclipse, then open `lab01Welcome/src/Lab01Welcome.java`.
+
+Type in the downloaded source into the class
 
 ### Step 1 — Fill in your identity block
 
@@ -173,12 +172,7 @@ System.out.println("Average score: " + (88 + 92 + 79) / 3.0);
 ## Compile, Run, and Test
 
 To run your program by itself and see its output:
-from Eclipse or any IDE
-
-```bash
-javac Lab01Welcome.java
-java  Lab01Welcome
-```
+from Eclipse or any IDE by click the Run
 
 ---
 
