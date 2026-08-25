@@ -65,7 +65,34 @@ System.out.println((88 + 92 + 79) / 3.0);   // prints 86.33333333333333 — 3.0 
 ### Step 0 — Set up (5 minutes)
 
 Create a new Project in Eclipse, name as Lab01Welcome
-Import the downloaded source into the project
+
+** Select **File ▸ New ▸ Java Project**.
+
+Complete the New Java Project dialog exactly as follows:
+
+- **Project name:** `Lab01Welcome`
+- **Use an execution environment JRE:** `JavaSE-21`, or whatever your Eclipse come with the JavaSE-xx
+- **Project layout:** *Create separate folders for sources and class files* (selected)
+
+Select **Finish**.
+
+If prompted *"Create module-info.java file?"*, select **Don't Create**. Modules are outside the scope of this course.
+
+If prompted to open the Java perspective, select **Open Perspective**.
+
+In Package Explorer, right-click the `src` folder and select **New ▸ Class**.
+
+Complete the New Java Class dialog:
+
+- **Package:** `edu.lamar.cosc1173`
+- **Name:** `Lab01Welcome`
+- **Modifiers:** `public` (default)
+- Check **public static void main(String[] args)**
+- Leave all other options unchecked
+
+Select **Finish**.
+
+Type in the downloaded source into the class
 
 
 Open the folder in Eclipse, then open `lab01Welcome/src/Lab01Welcome.java`.
